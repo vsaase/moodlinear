@@ -1,0 +1,1 @@
+#python /workspace/interface.py -i $1 -o $2 -m 'pixel' -t 'abdom'
